@@ -1,6 +1,6 @@
 # Proble_Solving_Records
 
-| OJ | Username | Max Ratting | Solve |
+| Platform | Username | Max Ratting | Solve |
 | -- | -------- | ----------- | ----- |
 | Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 0 | [0]() |
 | CodeChef | [xxxx]() | 0 | [0]() |
@@ -10,7 +10,7 @@
 | SPOJ | [xxxx]() | 0 | [0]() |  
 | Timus | [xxxx]() | 0 | [0]() |
 | UVA | [xxxx]() | 0 | [0]() |
-| BeeCrowed | [MoAsaduzzaman](https://www.beecrowd.com.br/judge/en/profile/875460) | 0 | [107](https://github.com/MoAsaduzzaman/Probelm_Solving_beecrowd) | 
+| beecrowd | [MoAsaduzzaman](https://www.beecrowd.com.br/judge/en/profile/875460) | 0 | [107](https://github.com/MoAsaduzzaman/Probelm_Solving_beecrowd) | 
 | HackerEarth | [xxxx]() | 0 | [0]() |
 | HackerRank | [Mo_Asaduzzaman](https://www.hackerrank.com/md35_858) | 0 | [0]() |
 | Toph | [xxxx]() | 0 | [0]() |
