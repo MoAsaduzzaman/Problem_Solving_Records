@@ -3,14 +3,14 @@
 | OJ | Username | Max Ratting | Solve |
 | -- | -------- | ----------- | ----- |
 | Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 0 | [0]() |
-| CodeChef | [iffatulanon](https://www.codechef.com/users/iffatulanon) | 1569 (2 star) | [35](https://github.com/iffatul-anon/CodeChef) |
-| AtCoder | [iffatul_anon](https://atcoder.jp/users/iffatul_anon) | 7 | 7 |
-| LeetCode | [iffatul_anon]() |  | 0 |
-| LightOJ | [iffatul_anon](https://lightoj.com/user/iffatul_anon) |  | 20 |
-| SPOJ | [iffatul_anon](https://www.spoj.com/myaccount/) |  | 1 |  
-| Timus | [iffatul_anon](https://acm.timus.ru/author.aspx?id=341829) |  | 10 |
-| UVA | [iffatul_anon](https://onlinejudge.org/index.php?option=com_comprofiler&Itemid=3) |  | 1 |
-| BeeCrowed | [iffatul_anon](https://www.beecrowd.com.br/judge/en/profile/639169) |  | [155](https://github.com/iffatul-anon/BeeCrowd) | 
+| CodeChef | [xxxx]() | 0 | [0]() |
+| AtCoder | [xxxx]() | 0 | [0]() |
+| LeetCode | [xxxx]() | 0 | [0]() |
+| LightOJ | [xxxx]() | 0 | [0]() |
+| SPOJ | [xxxx]() | 0 | [0]() |  
+| Timus | [xxxx]() | 0 | [0]() |
+| UVA | [xxxx]() | 0 | [0]() |
+| BeeCrowed | [MoAsaduzzaman](https://www.beecrowd.com.br/judge/en/profile/875460) | 0 | [107](https://github.com/MoAsaduzzaman/Probelm_Solving_beecrowd) | 
 | HackerEarth | [iffatul_anon]() |  | 0 |
 | HackerRank | [iffatul_anon](https://www.hackerrank.com/iffatul_anon?hr_r=1) |  | 11 |
 | Toph | [iffatul_anon](https://toph.co/u/iffatul_anon) | 1741A | 31 |
