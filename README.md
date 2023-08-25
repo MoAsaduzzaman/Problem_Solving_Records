@@ -1,7 +1,7 @@
 # Proble_Solving_Records
 
 | Platform | Username | Max Ratting | Solve | Points |
-| -- | -------- | ----------- | ----- | ------ |
+| -- | -------- | ----------- | ----- | -------- |
 | Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 0 | [0]() | 0 |
 | CodeChef | [xxxx]() | 0 | [0]() | 0 |
 | beecrowd | [MoAsaduzzaman](https://www.beecrowd.com.br/judge/en/profile/875460) | 0 | [121](https://github.com/MoAsaduzzaman/Probelm_Solving_beecrowd) | 287.7936 |
