@@ -4,7 +4,7 @@
 | -- | -------- | ----------- | ----- | --------- |
 | Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 0 | [0]() | 0 |
 | CodeChef | [xxxx]() | 0 | [0]() | 0 |
-| beecrowd | [MoAsaduzzaman](https://www.beecrowd.com.br/judge/en/profile/875460) | 0 | [164](https://github.com/MoAsaduzzaman/Probelm_Solving_beecrowd) | 402.6900 |
+| beecrowd | [MoAsaduzzaman](https://www.beecrowd.com.br/judge/en/profile/875460) | 0 | [171](https://github.com/MoAsaduzzaman/Probelm_Solving_beecrowd) | 433.4495 |
 | HackerRank | [Mo_Asaduzzaman](https://www.hackerrank.com/md35_858) | 0 | [0]() | 0 |
 | AtCoder | [xxxx]() | 0 | [0]() | 0 |
 | LeetCode | [xxxx]() | 0 | [0]() | 0 |
@@ -15,6 +15,6 @@
 | HackerEarth | [xxxx]() | 0 | [0]() | 0 |
 | Toph | [xxxx]() | 0 | [0]() | 0 |
 | VJudge | [xxxx]() | 0 | [0]() | 0 |
-| Total |  |  | 164 |  |
+| Total |  |  | 171 |  |
 
-Last Updated: 29 August, 2023
+Last Updated: 30 August, 2023
