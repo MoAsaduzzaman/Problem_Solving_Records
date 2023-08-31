@@ -1,6 +1,6 @@
 # Proble_Solving_Records
 
-| Platform | Username | Max Ratting | Solve | Points |
+| Platform | Profile | Max Ratting | Solve | Points |
 | -- | -------- | ----------- | ----- | --------- |
 | Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 0 | [0]() | 0 |
 | CodeChef | [xxxx]() | 0 | [0]() | 0 |
