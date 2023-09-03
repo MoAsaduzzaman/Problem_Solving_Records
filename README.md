@@ -17,4 +17,4 @@
 | VJudge | [xxxx]() | 0 | [0]() | 0 |
 | Total |  |  | 191 |  |
 
-Last Updated: 04 September, 2023
+Last Updated: 03 September, 2023
