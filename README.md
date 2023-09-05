@@ -3,11 +3,11 @@
 | Platform | Profile | Max Ratting | Solve | Points |
 | -- | -------- | ----------- | ----- | --------- |
 | beecrowd | [MoAsaduzzaman](https://www.beecrowd.com.br/judge/en/profile/875460) | 0 | [201](https://github.com/MoAsaduzzaman/Probelm_Solving_beecrowd) | 538.1655 |
-| HackerRank | [Mo_Asaduzzaman](https://www.hackerrank.com/md35_858) | 0 | [8](https://github.com/MoAsaduzzaman/Problem_Solving_HackerRank) | 70 |
-| HackerEarth | [xxxx]() | 0 | [0]() | 0 |  
+| HackerRank | [Mo_Asaduzzaman](https://www.hackerrank.com/md35_858) | 0 | [10](https://github.com/MoAsaduzzaman/Problem_Solving_HackerRank) | 100 |
+| HackerEarth | [MoAsaduzzaman](https://www.hackerearth.com/@md35-858) | 0 | [0]() | 0 |  
 | CodeChef | [xxxx]() | 0 | [0]() | 0 |
 | Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 0 | [0]() | 0 |
 | LeetCode | [xxxx]() | 0 | [0]() | 0 |
-| Total |  |  | 209 |  |
+| Total |  |  | 211 |  |
 
-Last Updated: 05 September, 2023
+Last Updated: 06 September, 2023
