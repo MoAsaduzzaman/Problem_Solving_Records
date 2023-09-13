@@ -5,9 +5,9 @@
 | beecrowd | [MoAsaduzzaman](https://www.beecrowd.com.br/judge/en/profile/875460) | 0 | [201](https://github.com/MoAsaduzzaman/Probelm_Solving_beecrowd) | 538.1655 |
 | HackerRank | [Mo_Asaduzzaman](https://www.hackerrank.com/md35_858) | 0 | [10](https://github.com/MoAsaduzzaman/Problem_Solving_HackerRank) | 100 |
 | HackerEarth | [MoAsaduzzaman](https://www.hackerearth.com/@md35-858) | 0 | [0]() | 0 |  
-| CodeChef | [moasaduzzaman](https://www.codechef.com/users/moasaduzzaman) | 0 | [138](https://github.com/MoAsaduzzaman/Problem_Solving_CodeChef) | 0 |
+| CodeChef | [moasaduzzaman](https://www.codechef.com/users/moasaduzzaman) | 0 | [147](https://github.com/MoAsaduzzaman/Problem_Solving_CodeChef) | 0 |
 | Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 0 | [4](https://github.com/MoAsaduzzaman/Problem_Solving_codeforces) | 0 |
 | LeetCode | [xxxx]() | 0 | [0]() | 0 |
-| Total |  |  | 353 |  |
+| Total |  |  | 352 |  |
 
-Last Updated: 13 September, 2023
+Last Updated: 14 September, 2023
