@@ -9,6 +9,6 @@
 | CodeChef | [moasaduzzaman](https://www.codechef.com/users/moasaduzzaman) | 0 | [215](https://github.com/MoAsaduzzaman/Problem_Solving_CodeChef) | 0 |
 | Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 790 (newbie) | [23](https://github.com/MoAsaduzzaman/Problem_Solving_codeforces) | 0 |
 | LeetCode | [xxxx]() | 0 | [0]() | 0 |
-| Total |  |  | 449 |  |
+| Total |  |  | 451 |  |
 
 Last Updated: 28 September, 2023
