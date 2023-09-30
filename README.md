@@ -6,9 +6,9 @@
 | HackerRank | [Mo_Asaduzzaman](https://www.hackerrank.com/md35_858) | 0 | [11](https://github.com/MoAsaduzzaman/Problem_Solving_HackerRank) | 100 |
 | HackerEarth | [MoAsaduzzaman](https://www.hackerearth.com/@md35-858) | 0 | [0]() | 0 | 
 | AtCoder | [mdasaduzzaman](https://atcoder.jp/users/mdasaduzzaman) | 2 | [1](https://github.com/MoAsaduzzaman/Problem_Solving_AtCoder) | 0 | 
-| CodeChef | [moasaduzzaman](https://www.codechef.com/users/moasaduzzaman) | 846 (Div 4) | [221](https://github.com/MoAsaduzzaman/Problem_Solving_CodeChef) | 0 |
-| Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 790 (newbie) | [26](https://github.com/MoAsaduzzaman/Problem_Solving_codeforces) | 0 |
+| CodeChef | [moasaduzzaman](https://www.codechef.com/users/moasaduzzaman) | 846 (Div 4) | [226](https://github.com/MoAsaduzzaman/Problem_Solving_CodeChef) | 0 |
+| Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 790 (newbie) | [27](https://github.com/MoAsaduzzaman/Problem_Solving_codeforces) | 0 |
 | LeetCode | [MoAsaduzzaman](https://leetcode.com/md35-858/) | 0 | [0]() | 0 |
-| Total |  |  | 460 |  |
+| Total |  |  | 466 |  |
 
-Last Updated: 30 September, 2023
+Last Updated: 01 October, 2023
