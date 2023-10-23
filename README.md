@@ -7,8 +7,8 @@
 | HackerEarth | [MoAsaduzzaman](https://www.hackerearth.com/@md35-858) | 0 | [0]() | 0 | 
 | AtCoder | [mdasaduzzaman](https://atcoder.jp/users/mdasaduzzaman) | 6 | [1](https://github.com/MoAsaduzzaman/Problem_Solving_AtCoder) | 0 | 
 | CodeChef | [moasaduzzaman](https://www.codechef.com/users/moasaduzzaman) | 953 (Div 4) | [255](https://github.com/MoAsaduzzaman/Problem_Solving_CodeChef) | 0 |
-| Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 992 (newbie) | [51](https://github.com/MoAsaduzzaman/Problem_Solving_codeforces) | 0 |
+| Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 992 (newbie) | [53](https://github.com/MoAsaduzzaman/Problem_Solving_codeforces) | 0 |
 | LeetCode | [MoAsaduzzaman](https://leetcode.com/md35-858/) | 0 | [0]() | 0 |
-| Total |  |  | 520 |  |
+| Total |  |  | 522 |  |
 
 Last Updated: 23 October, 2023
