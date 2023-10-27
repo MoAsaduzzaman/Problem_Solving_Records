@@ -9,7 +9,7 @@
 | CodeChef | [moasaduzzaman](https://www.codechef.com/users/moasaduzzaman) | 953 (Div 4) | [263](https://github.com/MoAsaduzzaman/Problem_Solving_CodeChef) | 0 |
 | Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 992 (newbie) | [65](https://github.com/MoAsaduzzaman/Problem_Solving_codeforces) | 0 |
 | LeetCode | [MoAsaduzzaman](https://leetcode.com/md35-858/) | 0 | [0]() | 0 |
-| eolymp | | [MdAsaduzzaman](https://www.eolymp.com/en/users/MdAsaduzzaman) | 0 | [1](https://github.com/MoAsaduzzaman/Problem_Solving_eolymp) | 0 |
-| Total |  |  | 542 |  |
+| eolymp | [MdAsaduzzaman](https://www.eolymp.com/en/users/MdAsaduzzaman) | 0 | [1](https://github.com/MoAsaduzzaman/Problem_Solving_eolymp) | 0 |
+| Total |  |  | 543 |  |
 
 Last Updated: 27 October, 2023
