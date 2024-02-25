@@ -5,7 +5,7 @@
 | LeetCode | [MoAsaduzzaman](https://leetcode.com/md35-858/) | 0 | [7](https://github.com/MoAsaduzzaman/Problem_Solving_LeetCode) |
 | beecrowd | [MoAsaduzzaman](https://www.beecrowd.com.br/judge/en/profile/875460) | 0 | [201](https://github.com/MoAsaduzzaman/Probelm_Solving_beecrowd) |
 | CodeChef | [moasaduzzaman](https://www.codechef.com/users/moasaduzzaman) | 1146 (Div 4) | [306](https://github.com/MoAsaduzzaman/Problem_Solving_CodeChef) |
-| Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 1150 (newbie) | [276](https://github.com/MoAsaduzzaman/Problem_Solving_codeforces) |
+| Codeforces | [mdasaduzzaman](https://codeforces.com/profile/mdasaduzzaman)| 1150 (newbie) | [277](https://github.com/MoAsaduzzaman/Problem_Solving_codeforces) |
 | eolymp | [MdAsaduzzaman](https://www.eolymp.com/en/users/MdAsaduzzaman) | 0 | [6](https://github.com/MoAsaduzzaman/Problem_Solving_eolymp) |
 | HackerRank | [Mo_Asaduzzaman](https://www.hackerrank.com/md35_858) | 0 | [12](https://github.com/MoAsaduzzaman/Problem_Solving_HackerRank) |
 | HackerEarth | [MoAsaduzzaman](https://www.hackerearth.com/@md35-858) | 0 | [0]() |
